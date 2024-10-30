@@ -2,10 +2,10 @@ import React from "react";
 
 export const Navbar = () => {
 	return (
-		<nav className="navbar navbar-expand-lg bg-dark" >
+	<nav className="navbar navbar-expand-lg navbar-dark bg-dark" >
   <div className="container-fluid">
     <a className="navbar-brand" href="#" style={{color: "white"}}>Start Bootstrap</a>
-    
+
     <div>
       <button className="navbar-toggler" style={{border: "2px solid rgba(255, 255, 255, .5)"}} type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02"
             aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
